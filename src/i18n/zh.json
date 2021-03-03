@@ -1,0 +1,9 @@
+{
+    "WELCOME": "欢迎",
+    "COMMON": {
+        "ERROR": "错误",
+        "ERROR_TITLE": "这个错了",
+        "REPORT_MESSAGE": "错了，重试一下",
+        "CLOSE": "关闭"
+    }
+}
